@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LognReg</string>
+    <string-array name="living">
+        <item></item>
+        <item>Kost</item>
+        <item>Rumah</item>
+    </string-array>
+</resources>
